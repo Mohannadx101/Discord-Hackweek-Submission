@@ -15,8 +15,8 @@
 ## 🚀 Installation & Setup  
 ### Clone the Repository  
 ```bash
-git clone https://github.com/Mohannadx101/Discord-Hackweek.git
-cd Discord-Hackweek
+git clone https://github.com/Mohannadx101/Discord-Hackweek-Submission.git
+cd Discord-Hackweek-Submission
 ```
 ### Install Dependencies  
 ```bash
